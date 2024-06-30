@@ -74,7 +74,7 @@ We agree to license the Contribution only under the terms of the following licen
 
 In addition, We may use the following licenses for Documentation in the Contribution: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (including any right to adopt any future version of a license).
 
-We agree to license patents owned or controlled by You only to the extent necessary to (sub)license Your Contribution(s) and the combination of Your Contribution(s) with the Material under the terms of the following MPL-1.1, Mozilla Public License 2.0 license(s).
+We agree to license patents owned or controlled by You only to the extent necessary to (sub)license Your Contribution(s) and the combination of Your Contribution(s) with the Material under the terms of the following MPL-2.0 license(s).
 
 ### 5. Disclaimer
 
