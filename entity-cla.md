@@ -4,7 +4,7 @@
 
 ## (including the Traditional Patent License OPTION)
 
-Thank you for your interest in contributing to Blake Gentry and Brandur Leach's River Queue ("We" or "Us").
+Thank you for your interest in contributing to Blake Gentry and Brandur Leach's River projects ("We" or "Us").
 
 The purpose of this contributor agreement ("Agreement") is to clarify and document the rights granted by contributors to Us. To make this document effective, please follow the instructions at https://github.com/riverqueue/cla.
 
