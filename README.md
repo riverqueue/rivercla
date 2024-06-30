@@ -7,7 +7,7 @@ River CLAs (content license agreements):
 
 This repository contains our low touch CLA solution until we can set up something more automated.
 
-To sign it:
+**To sign it:**
 
 1. Read either the [entity CLA](./entity-cla.md) (if for a business entity) or [individual CLA](./individual-cla.md) (if you're not).
 2. Acknowledge your agreement by opening a pull request to the signees CSV by [clicking here](https://github.com/riverqueue/cla/edit/master/signees.csv) and adding your name and GitHub username as a new line.
